@@ -97,6 +97,7 @@ DEPENDENCIES
   http_parser.rb (~> 0.6.0)
   image_optim (~> 0.31.3)
   jekyll (~> 4.3.2)
+  jekyll-seo-tag (~> 2.8.0)
   mini_magick (~> 4.12)
   minima (~> 2.5)
   tzinfo (>= 1, < 3)
