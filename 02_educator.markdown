@@ -16,6 +16,6 @@ She is available for, singing lessons, workshops, lectures, and troubadour gigs 
 
 
 <div>
-<img src="/assets/img/9355_fridalonnroos.JPG" alt="Katri A. Keskinen">
+<img src="/assets/img/9814_fridalonnroos.JPG" alt="Katri A. Keskinen">
 <div class="photo-credit">Photo: Frida Lönnroos</div>
 <div>
