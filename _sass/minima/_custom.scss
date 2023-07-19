@@ -29,16 +29,16 @@
   }
 }
 
-.publications p {
+.hanging-indent p {
   text-indent: -4rem;  /* negative indent for the first line */
   padding-left: 4rem;  /* indent for the rest of the lines */
-  font-style: italic;
 }
 
 .site-title {
   /*font-family: Optima, Candara, 'Noto Sans', source-sans-pro, sans-serif;*/
   font-family: Avenir, Montserrat, Corbel, 'URW Gothic', source-sans-pro, sans-serif;
 }
+
 
 h2, h3 {
   margin-top: 3rem;
