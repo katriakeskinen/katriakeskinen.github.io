@@ -57,14 +57,16 @@ bundler -v
 
 ## Step 4: Install image compression utilities
 
+```
 brew install jpegoptim optipng imagemagick
+```
 
 ## Step 5: Clone Your Existing GitHub Pages Project
 
 Navigate to the directory where you want to clone your project and run:
 
 ```
-git clone https://github.com/katriakeskinen/katriakeskinen.gihub.io.git
+git clone https://github.com/katriakeskinen/katriakeskinen.github.io.git
 ```
 
 Replace "username" and "repository" with your GitHub username and your repository's name.
@@ -77,7 +79,13 @@ cd katriakeskinen.github.io
 
 ## Step 7: Build and Serve your site locally
 
-Build and serve your site locally with the following command:
+For the first time, install bundle packages
+
+```
+bundle install
+```
+
+After this, build and serve your site locally with the following command:
 
 ```
 bundle exec jekyll serve
