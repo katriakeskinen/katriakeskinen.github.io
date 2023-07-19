@@ -19,7 +19,7 @@ Dir.glob('images/*').each do |image_path|
   image = MiniMagick::Image.open(image_path)
 
   # Resize the image
-  max_width = 800 # change this to the maximum width you want
+  max_width = 1000 # change this to the maximum width you want
   if image.width > max_width
     image.resize "#{max_width}x"
   end
