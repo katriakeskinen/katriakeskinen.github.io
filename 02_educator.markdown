@@ -11,11 +11,11 @@ As a voice teacher, Keskinen has worked with all ages in institutional and priva
 
 Keskinen has also taught songwriting, conducted several choirs and orchestras, and facilitated circlesinging workshops. 
 
-She is available for, singing lessons, workshops, lectures, and troubadour gigs in English, Finnish, and Swedish.
+She is available for singing lessons, workshops, lectures, and troubadour gigs in English, Finnish, and Swedish.
 </div>
 
 
 <div>
-<img src="/assets/img/9814_fridalonnroos.JPG" alt="Katri A. Keskinen">
+<img src="/assets/img/9355_fridalonnroos.JPG" alt="Katri A. Keskinen">
 <div class="photo-credit">Photo: Frida Lönnroos</div>
 <div>
