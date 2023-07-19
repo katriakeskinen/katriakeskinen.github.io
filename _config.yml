@@ -19,7 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Katri A. Keskinen
-email: contact@katriakeskinen.com
+email: katri.keskinen@uniarts.fi
 description: >- # this means to ignore newlines until "baseurl:"
   Doctoral Researcher, Educator, Voice Teacher, Musician
 baseurl: "" # the subpath of your site, e.g. /blog
