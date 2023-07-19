@@ -1,0 +1,6 @@
+_site
+assets/img
+.sass-cache
+.jekyll-cache
+.jekyll-metadata
+vendor
