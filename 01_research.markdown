@@ -15,7 +15,7 @@ Her academic interests include the effects of societal changes and expanding pro
 She has presented her research in various music education and singing voice related conferences in Europe and the United States.
 </div>
 <div class="column-half">
-    <img src="/assets/img/9938_bw.JPG" alt="Katri A. Keskinen">
+    <img src="/assets/img/9938_bw_crop.JPG" alt="Katri A. Keskinen">
     <div class="photo-credit">Photo: Frida Lönnroos</div>
 </div>
 </div>
