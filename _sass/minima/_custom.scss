@@ -60,6 +60,10 @@ h2, h3 {
     -moz-column-gap: 1.5 * $spacing-unit; /* Firefox */
     column-gap: 1.5 * $spacing-unit;
 
+    -webkit-column-break-inside: avoid;
+    page-break-inside: avoid;
+    break-inside: avoid;
+
     margin-bottom: $spacing-unit
   }
 }
