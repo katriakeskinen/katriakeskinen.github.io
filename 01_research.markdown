@@ -23,6 +23,8 @@ She has presented her research in various music education and singing voice rela
 ### Presentations, Lectures and Workshops
 
 <div class="hanging-indent" markdown="1">
+Keskinen, K. A. (2023). *Laajeneva ammatillisuus rytmimusiikin laulupedagogiikan näkökulmasta tarkasteltuna.* Lecture as part of the ‘Current issues in music education’ course (Musiikkikasvatuksen ajankohtaiset kysymykset). Sibelius Academy, University of the Arts Helsinki, September 26, 2023.
+
 Keskinen, K.A. (2023). *Expanding Professionalism: Popular Music Voice Teachers’ Perspectives.* Conference presentation at the Association for Popular Music Education (APME) Conference, New Orleans, LA, USA, May 31–June 3, 2023.
 
 Keskinen, K.A. (2023). *Laulunopettajan ammattitaidon laajentuminen rytmimusiikin kontekstissa.* Conference presentation at the Finnish Association of Teachers of Singing 40-year jubilee conference, Helsinki, Finland, February 11, 2023.
@@ -41,6 +43,8 @@ Keskinen, K.A., Keskinen, O.E., Sundberg, J., Stark, J. & Branderud, P. (2019). 
 ### Publications and Thesis
 
 <div class="hanging-indent" markdown="1">
+
+Keskinen, K.A., Juntunen, ML., Nerland, M.B. (forthcoming). Expanding Professionalism in Popular Music Voice Teaching: A Framework Synthesis. *Research Studies in Music Education*.
 
 Keskinen, K.A. (forthcoming). *Tutkimusmatkalla rytmimusiikin laulupedagogin ammatillisuuteen.* Laulupedagogi 2021–2022.
 
