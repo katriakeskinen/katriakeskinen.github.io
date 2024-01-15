@@ -23,7 +23,9 @@ She has presented her research in various music education and singing voice rela
 ### Presentations, Lectures and Workshops
 
 <div class="hanging-indent" markdown="1">
-Keskinen, K. A. (2023). *Laajeneva ammatillisuus rytmimusiikin laulupedagogiikan näkökulmasta tarkasteltuna.* Lecture as part of the ‘Current issues in music education’ course (Musiikkikasvatuksen ajankohtaiset kysymykset). Sibelius Academy, University of the Arts Helsinki, September 26, 2023.
+Keskinen, K.A. (forthcoming). *Navigating Change and Expanding Professionalism in Nordic Popular Music Voice Teacher Education.* Conference presentation at the Nordic Network for Music Education (NNRME) Conference, Bodø, Norway, March 19-21, 2024.
+    
+Keskinen, K.A. (2023). *Laajeneva ammatillisuus rytmimusiikin laulupedagogiikan näkökulmasta tarkasteltuna.* Lecture as part of the ‘Current issues in music education’ course (Musiikkikasvatuksen ajankohtaiset kysymykset). Sibelius Academy, University of the Arts Helsinki, September 26, 2023.
 
 Keskinen, K.A. (2023). *Expanding Professionalism: Popular Music Voice Teachers’ Perspectives.* Conference presentation at the Association for Popular Music Education (APME) Conference, New Orleans, LA, USA, May 31–June 3, 2023.
 
@@ -44,7 +46,11 @@ Keskinen, K.A., Keskinen, O.E., Sundberg, J., Stark, J. & Branderud, P. (2019). 
 
 <div class="hanging-indent" markdown="1">
 
-Keskinen, K.A., Juntunen, ML., Nerland, M.B. (forthcoming). Expanding Professionalism in Popular Music Voice Teaching: A Framework Synthesis. *Research Studies in Music Education*.
+Keskinen, K.A., Juntunen, M-L., & Nerland, M. (in press). Expanding Professionalism in Popular Music Voice Teaching: A Framework Synthesis. *Research Studies in Music Education.*
+
+Keskinen, K.A. & Juntunen. (in press). Perspectives on Popular Music Voice Teaching: A Systematic Mapping Review of Recent Literature. *Journal of Popular Music Education.*
+
+Keskinen, K.A. & Juntunen (2024). Supplemental material for manuscript "Perspectives on Popular Music Voice Teaching: A Systematic Mapping Review of Recent Literature", Data set, Zenodo. https://doi.org/10.5281/zenodo.10471831![image](https://github.com/katriakeskinen/katriakeskinen.github.io/assets/139687923/7e078112-9464-4577-9ef6-20425ee24f9b)
 
 Keskinen, K.A. (forthcoming). *Tutkimusmatkalla rytmimusiikin laulupedagogin ammatillisuuteen.* Laulupedagogi 2021–2022.
 
