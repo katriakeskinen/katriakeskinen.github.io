@@ -46,7 +46,7 @@ Keskinen, K.A., Keskinen, O.E., Sundberg, J., Stark, J. & Branderud, P. (2019). 
 
 <div class="hanging-indent" markdown="1">
 
-Keskinen, K.A., Juntunen, M-L., & Nerland, M. (in press). Expanding Professionalism in Popular Music Voice Teaching: A Framework Synthesis. *Research Studies in Music Education.*
+Keskinen, K.A., Juntunen, M-L., & Nerland, M. (2024). Expanding Professionalism in Popular Music Voice Teaching: A Framework Synthesis. *Research Studies in Music Education.* [Online first] https://doi.org/10.1177/1321103X231223414
 
 Keskinen, K.A. & Juntunen, M-L. (in press). Perspectives on Popular Music Voice Teaching: A Systematic Mapping Review of Recent Literature. *Journal of Popular Music Education.*
 
