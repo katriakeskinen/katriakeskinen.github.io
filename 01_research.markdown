@@ -50,7 +50,7 @@ Keskinen, K.A., Juntunen, M-L., & Nerland, M. (2024). Expanding Professionalism 
 
 Keskinen, K.A. & Juntunen, M-L. (in press). Perspectives on Popular Music Voice Teaching: A Systematic Mapping Review of Recent Literature. *Journal of Popular Music Education.*
 
-Keskinen, K.A. & Juntunen (2024). *Supplemental material for manuscript "Perspectives on Popular Music Voice Teaching: A Systematic Mapping Review of Recent Literature"*. Data set, Zenodo. https://doi.org/10.5281/zenodo.10471831
+Keskinen, K.A. & Juntunen, M-L. (2024). *Supplemental material for manuscript "Perspectives on Popular Music Voice Teaching: A Systematic Mapping Review of Recent Literature"*. Data set, Zenodo. https://doi.org/10.5281/zenodo.10471831
 
 Keskinen, K.A. (forthcoming). Tutkimusmatkalla rytmimusiikin laulupedagogin ammatillisuuteen. *Laulupedagogi 2021–2022.*
 
