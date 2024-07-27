@@ -26,7 +26,7 @@ She has presented her research in various music education and singing voice rela
 
 Keskinen, K.A. (2024). *Keeping Up: Expanding Professionalism in Nordic Popular Music Voice Teacher Education.* Conference presentation, 36th ISME World Conference, Helsinki, Finland, July 28–August 2, 2024.
 
-Keskinen, K. A. (2024). *Fostering Singers’ Professional Sustainability through Expanding Professionalism of Voice Teachers.* Pecha Kucha presentation, Commission for the Education of the Professional Musician (CEPROM), 25th Pre-Conference International Seminar, Tallinn, Estonia,  July 23-26 2024.
+Keskinen, K.A. (2024). *Fostering Singers’ Professional Sustainability through Expanding Professionalism of Voice Teachers.* Pecha Kucha presentation, Commission for the Education of the Professional Musician (CEPROM), 25th Pre-Conference International Seminar, Tallinn, Estonia,  July 23-26 2024.
 
 Keskinen, K.A. (2024). *Navigating Change and Expanding Professionalism in Nordic Popular Music Voice Teacher Education.* Conference presentation at the Nordic Network for Music Education (NNRME) Conference, Bodø, Norway, March 19-21, 2024.
 
