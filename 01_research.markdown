@@ -23,8 +23,17 @@ She has presented her research in various music education and singing voice rela
 ### Presentations, Lectures and Workshops
 
 <div class="hanging-indent" markdown="1">
-Keskinen, K.A. (forthcoming). *Navigating Change and Expanding Professionalism in Nordic Popular Music Voice Teacher Education.* Conference presentation at the Nordic Network for Music Education (NNRME) Conference, Bodø, Norway, March 19-21, 2024.
-    
+
+Keskinen, K.A. (2024). *Keeping Up: Expanding Professionalism in Nordic Popular Music Voice Teacher Education.* Conference presentation, 36th ISME World Conference, Helsinki, Finland, July 28–August 2, 2024.
+
+Keskinen, K. A. (2024). *Fostering Singers’ Professional Sustainability through Expanding Professionalism of Voice Teachers.* Pecha Kucha presentation, Commission for the Education of the Professional Musician (CEPROM), 25th Pre-Conference International Seminar, Tallinn, Estonia,  July 23-26 2024.
+
+Keskinen, K.A. (2024). *Navigating Change and Expanding Professionalism in Nordic Popular Music Voice Teacher Education.* Conference presentation at the Nordic Network for Music Education (NNRME) Conference, Bodø, Norway, March 19-21, 2024.
+
+Keskinen, K.A. (2024). *Professionalism in Popular Music Voice Teaching: Navigating Academic Structures and Societal Changes.* Seminar presentation, SibA Research Days 2024, Helsinki, Finland, March 14-15, 2024.
+
+Keskinen, K.A. (2024). *Laajeneva ammatillisuus rytmimusiikin laulupedagogiikassa.* Lecture as part of the 'Popular music voice pedagogy 2' course (Rytmimusiikin laulupedagogiikka 2). Sibelius Academy, University of the Arts Helsinki, January 18, 2024.
+
 Keskinen, K.A. (2023). *Laajeneva ammatillisuus rytmimusiikin laulupedagogiikan näkökulmasta tarkasteltuna.* Lecture as part of the ‘Current issues in music education’ course (Musiikkikasvatuksen ajankohtaiset kysymykset). Sibelius Academy, University of the Arts Helsinki, September 26, 2023.
 
 Keskinen, K.A. (2023). *Expanding Professionalism: Popular Music Voice Teachers’ Perspectives.* Conference presentation at the Association for Popular Music Education (APME) Conference, New Orleans, LA, USA, May 31–June 3, 2023.
