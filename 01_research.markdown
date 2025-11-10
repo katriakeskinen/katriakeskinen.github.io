@@ -24,6 +24,12 @@ She has presented her research in various music education and singing voice rela
 
 <div class="hanging-indent" markdown="1">
 
+Keskinen, K. A. (forthcoming 2026). *Expanding professionalism of voice teachers*. Conference presentation, Eurovox 2026, Lucerne, Switzerland, August 20–22, 2026.
+
+Backer Johnsen, H., Gurung, P., & Keskinen, K. A. (2025). *Ethical and critical reflections from the ongoing doctoral projects in music education.* Keynote Panel Discussion. NNME Seminar, Kallio-Kuninkala, Finland, November 3-7, 2025.
+
+Keskinen, K. A. (2025). *Musiikin koulutuksen kehityspaineet ja laajeneva ammatillisuus: Näkökulmia rytmimusiikin laulunopetuksesta.* Conference presentation, Mukaan! VII Valtakunnalliset Musiikkikasvatuspäivät. Kuopio, Finland, October 30–November 1, 2025.
+
 Keskinen, K. A. (2024). *Keeping Up: Expanding Professionalism in Nordic Popular Music Voice Teacher Education.* Conference presentation, 36th ISME World Conference, Helsinki, Finland, July 28–August 2, 2024.
 
 Keskinen, K. A. (2024). *Fostering Singers’ Professional Sustainability through Expanding Professionalism of Voice Teachers.* Pecha Kucha presentation, Commission for the Education of the Professional Musician (CEPROM), 25th Pre-Conference International Seminar, Tallinn, Estonia,  July 23-26 2024.
@@ -54,6 +60,10 @@ Keskinen, K. A., Keskinen, O. E., Sundberg, J., Stark, J. & Branderud, P. (2019)
 ### Publications and Thesis
 
 <div class="hanging-indent" markdown="1">
+
+Keskinen, K. A. (forthcoming). Professionalism in popular music voice teacher education: Institutional conditions of a changing field in Finland and Sweden. *International Journal of Music Education.*
+
+Keskinen, K. A. (forthcoming). Expanding Voice Teacher Professionalism Towards Singing Citizenship: Nordic Popular Music Voice Teacher Educators’ Experiences. In J. Rowley & P. D. Pike, *Shifting musical paradigms: fostering artistic agency, equity, access, belonging, and wellbeing.* ISME Routledge CEPROM.
 
 Keskinen, K. A., Juntunen, M-L., & Nerland, M. (2024). Expanding Professionalism in Popular Music Voice Teaching: A Framework Synthesis. *Research Studies in Music Education, 46*(3), 420–455. https://doi.org/10.1177/1321103X231223414
 
