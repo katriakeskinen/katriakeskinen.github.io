@@ -61,17 +61,15 @@ Keskinen, K. A., Keskinen, O. E., Sundberg, J., Stark, J. & Branderud, P. (2019)
 
 <div class="hanging-indent" markdown="1">
 
-Keskinen, K. A. (forthcoming). Professionalism in popular music voice teacher education: Institutional conditions of a changing field in Finland and Sweden. *International Journal of Music Education.*
+Keskinen, K. A. (2025). Professionalism in popular music voice teacher education: Institutional conditions of a changing field in Finland and Sweden. *International Journal of Music Education.* Advance online publication. https://doi.org/10.1177/02557614251397330
 
-Keskinen, K. A. (forthcoming). Expanding Voice Teacher Professionalism Towards Singing Citizenship: Nordic Popular Music Voice Teacher Educators’ Experiences. In J. Rowley & P. D. Pike, *Shifting musical paradigms: fostering artistic agency, equity, access, belonging, and wellbeing.* ISME Routledge CEPROM.
+Keskinen, K. A. (forthcoming). Expanding Voice Teacher Professionalism Towards Singing Citizenship: Nordic Popular Music Voice Teacher Educators’ Experiences. In J. Rowley & P. D. Pike, *Responding to global shifts in Higher Music Education practice.* Routledge.
 
-Keskinen, K. A., Juntunen, M-L., & Nerland, M. (2024). Expanding Professionalism in Popular Music Voice Teaching: A Framework Synthesis. *Research Studies in Music Education, 46*(3), 420–455. https://doi.org/10.1177/1321103X231223414
+Keskinen, K. A., Juntunen, M.-L., & Nerland, M. (2024). Expanding Professionalism in Popular Music Voice Teaching: A Framework Synthesis. *Research Studies in Music Education, 46*(3), 420–455. https://doi.org/10.1177/1321103X231223414
 
-Keskinen, K. A. & Juntunen, M-L. (2024). Perspectives on Popular Music Voice Teaching: A Systematic Mapping Review of Recent Literature. *Journal of Popular Music Education, 8*(2), 135–155. https://doi.org/10.1386/jpme_00139_1
+Keskinen, K. A. & Juntunen, M.-L. (2024). Perspectives on Popular Music Voice Teaching: A Systematic Mapping Review of Recent Literature. *Journal of Popular Music Education, 8*(2), 135–155. https://doi.org/10.1386/jpme_00139_1
 
-Keskinen, K. A. & Juntunen, M-L. (2024). *Supplemental material for manuscript "Perspectives on Popular Music Voice Teaching: A Systematic Mapping Review of Recent Literature"*. Data set, Zenodo. https://doi.org/10.5281/zenodo.10471831
-
-Keskinen, K. A. (forthcoming). Tutkimusmatkalla rytmimusiikin laulupedagogin ammatillisuuteen. *Laulupedagogi 2021–2022.*
+Keskinen, K. A. & Juntunen, M.-L. (2024). *Supplemental material for manuscript "Perspectives on Popular Music Voice Teaching: A Systematic Mapping Review of Recent Literature"*. Data set, Zenodo. https://doi.org/10.5281/zenodo.10471831
 
 Backer Johnsen, H., Capponi-Savolainen, A., Choi, S., Fornhammar, L., Jääskeläinen, T., Kallio, A. A., Kamensky, H., Keskinen K. A., Kivijärvi, S., Koivisto, T-A., Lamminmäki, N., Lehtinen-Schnabel, J., Mesiä, S., Miettinen, L., Siljamäki, E., Snellman, A., Thomson, K., Timonen, V., Treacy, D. S., Tuovinen, T., Vallenius, L. (2020). Collaboratively Navigating Liminality in Music Education Doctoral Studies. In T. Laes & L. Hautsalo (Eds.) *Remarks on a Visionary’s Journey. An Anthology Celebrating Heidi Westerlund.* Sibelius Academy Publications 18.
 
